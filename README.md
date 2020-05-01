@@ -13,3 +13,13 @@ Api de prueba :rocket:
         (venv)$ export FLASK_APP=main.py
 
         (venv)$ flask run
+
+## Docker
+
+- Generar imagen:
+
+	$ docker build -t <name>:<tag> .
+
+- Ejecutar imagen para generar un contenedor:
+
+	$ docker run --rm -p 5000:5000 -it <name>:<tag>
