@@ -22,11 +22,4 @@ Api de prueba :rocket:
 
 - Ejecutar imagen para generar un contenedor:
 
-        $ docker run --rm -p 5000:5000 -it <name>:<tag>
-	
-- Para trabajar con datos locales:
-        
-        # Comentar en Dockerfile
-        # ADD data/confirmed-cases.json data/
-
         $ docker run --rm -p 5000:5000 -v $PWD/data:/usr/src/app/data -it <name>/<tag>

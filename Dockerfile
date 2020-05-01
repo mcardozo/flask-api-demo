@@ -1,4 +1,4 @@
-FROM python:3.8.2-buster
+FROM python:3.8.2
 MAINTAINER Marisol Cardozo <cardozomarisolp@gmail.com>
 
 WORKDIR /usr/src/app
