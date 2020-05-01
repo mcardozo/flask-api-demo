@@ -1,0 +1,102 @@
+{
+    "comments": "Casos confirmados con COVID-19 en Argentina",
+    "update-date": "2020-05-01",
+    "states": [
+        {
+          "state": "Buenos Aires",
+          "amount": 1598
+        },
+        {
+          "state": "Ciudad de Buenos Aires",
+          "amount": 1168
+        },
+        {
+          "state": "Catamarca",
+          "amount": 0
+        },
+        {
+          "state": "Chaco",
+          "amount": 314
+        },
+        {
+          "state": "Chubut",
+          "amount": 2
+        },
+        {
+          "state": "Córdoba",
+          "amount": 278
+        },
+        {
+          "state": "Corrientes",
+          "amount": 48
+        },
+        {
+          "state": "Entre Ríos",
+          "amount": 23
+        },
+        {
+          "state": "Formosa",
+          "amount": 0
+        },
+        {
+          "state": "Jujuy",
+          "amount": 5
+        },
+        {
+          "state": "La Pampa",
+          "amount": 5
+        },
+        {
+          "state": "La Rioja",
+          "amount": 52
+        },
+        {
+          "state": "Mendoza",
+          "amount": 83
+        },
+        {
+          "state": "Misiones",
+          "amount": 12
+        },
+        {
+          "state": "Neuquén",
+          "amount": 111
+        },
+        {
+          "state": "Río Negro",
+          "amount": 228
+        },
+        {
+          "state": "Salta",
+          "amount": 4
+        },
+        {
+          "state": "San Juan",
+          "amount": 2
+        },
+        {
+          "state": "San Luis",
+          "amount": 11
+        },
+        {
+          "state": "Santa Cruz",
+          "amount": 49
+        },
+        {
+          "state": "Santa Fe",
+          "amount": 243
+        },
+        {
+          "state": "Santiago del Estero",
+          "amount": 15
+        },
+        {
+          "state": "Tierra del Fuego",
+          "amount": 139
+        },
+        {
+          "state": "Tucumán",
+          "amount": 38
+        }
+    ]
+  }
