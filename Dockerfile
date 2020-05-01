@@ -10,7 +10,3 @@ ADD data/confirmed-cases.json data/
 
 ENV FLASK_APP=main.py
 CMD flask run --host=0.0.0.0
-
-EXPOSE 5000
-
-
